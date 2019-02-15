@@ -14,8 +14,8 @@
                 <router-link class="p-2 text-dark" to="/5x5">5x5</router-link>
                 <router-link class="p-2 text-dark" to="/ibm-saas">IBM SaaS</router-link>
             </nav>
-<!--
-            <a class="btn btn-outline-primary" href="#">English</a>-->
+
+            <a class="btn btn-outline-primary" href="#">English</a>
 
         </div>
     </header>
