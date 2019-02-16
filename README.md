@@ -1,4 +1,4 @@
-# effectit
+# my-project
 
 ## Project setup
 ```

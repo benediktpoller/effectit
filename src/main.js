@@ -1,103 +1,58 @@
 import Vue from 'vue'
 import App from './App.vue'
-import VueRouter from 'vue-router';
-import Start from "./components/Start";
-import Error404 from "./components/Error404";
-import Impressum from "./components/Impressum";
-import AGB from "./components/AGB";
-import Kontakt from "./components/Kontakt";
-import Landingpage from "./components/Landingpage";
 
+import BootstrapVue from 'bootstrap-vue'
 
-import Wartung from "./components/Wartung";
-import Systemhandel from "./components/Systemhandel";
-import Leasing from "./components/Leasing";
+import Home from './components/Home.vue'
 
-import Fxf from "./components/Fxf";
-import Saas from "./components/Saas";
+Vue.use(BootstrapVue)
 
-Vue.use(VueRouter);
-
-const defaultOptions = {
-    allowedTags: ['h1', 'h2', 'h3', 'p', 'b'],
-    allowedAttributes: {
-        'a': ['href']
-    }
-};
-
-Vue.use(defaultOptions);
-
-/*
-Router configuration
- */
-const router = new VueRouter({
-    mode: 'history',
-    /*
-    We just add one route
-     */
-    routes: [
-        {
-            // Wildcard path
-            path: '/',
-            // Specify the component to be rendered for this route
-            component: Start,
-            // Inject  props based on route.query values (our query parameters!)
-            props: (route) => ({
-                locale: route.query.locale
-            })
-        },
-        {
-            path: '/agb',
-            component: AGB
-        },
-        {
-            path: '/impressum',
-            component: Impressum
-        },
-        {
-            path: '/kontakt',
-            component: Kontakt
-        },
-        {
-            path: '/it-wartung',
-            component: Wartung
-        },
-
-        {
-            path: '/it-systemhandel',
-            component: Systemhandel
-        },
-        {
-            path: '/leasing',
-            component: Leasing
-        },
-        {
-            path: '/5x5',
-            component: Fxf
-        },
-        {
-            path: '/ibm-saas',
-            component: Saas
-        },
-        {
-            path: '/landingpage',
-            component: Landingpage
-        },
-        {
-            path: '*',
-            // Specify the component to be rendered for this route
-            component: Error404,
-            // Inject  props based on route.query values (our query parameters!)
-            props: (route) => ({
-                locale: route.query.locale
-            })
-        }
-    ]
-});
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 Vue.config.productionTip = false
 
+import i18next from 'i18next';
+import VueI18Next from '@panter/vue-i18next';
+
+Vue.use(VueI18Next);
+import Router from 'vue-router'
+// Vue.use(Router)
+export default new Router({
+    routes: [
+        {
+            path: '*',
+            name: 'home',
+            component: Home
+        }
+    ]
+})
+
+const locales = {
+    en: {
+        tos: "Term of Service",
+        imprint: "Imprint",
+        contact: "Contact",
+        gdpr: "GDPR"
+    },
+    de: {
+        tos: "AGB",
+        imprint: "Impressum",
+        contact: "Kontakt",
+        gdpr: "DSGVO"
+    }
+};
+i18next.init({
+    lng: 'de',
+    resources: {
+        en: { translation: locales.en },
+        de: { translation: locales.de }
+    }
+});
+
+const i18n = new VueI18Next(i18next);
+
 new Vue({
-    router,
     render: h => h(App),
+    i18n: i18n,
 }).$mount('#app')

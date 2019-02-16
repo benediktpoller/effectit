@@ -1,12 +1,6 @@
 <template>
-    <div id="app">
-        <NavBar></NavBar>
+    <div>
 
-        <router-view/>
-
-        <!--
-        <Maintainence></Maintainence>
--->
         <b-carousel
                 id="carousel-fade"
                 style="text-shadow: 0px 0px 2px #000"
@@ -15,21 +9,21 @@
                 img-width="1024"
                 img-height="480"
         >
-            <b-carousel-slide caption="Defend your business" img-src="https://hammerheaddomains.com/wp-content/uploads/2015/12/pbn-hosting-data-center.jpg"/>
-            <b-carousel-slide caption="Optimale IT Wartung" img-src="https://www.akita.co.uk/wp-content/uploads/2017/03/Server.jpg"/>
-            <b-carousel-slide caption="Früh wissen, was passiert" img-src="https://picsum.photos/1024/480/?image=22"/>
+            <b-carousel-slide caption="First slide" img-src="https://picsum.photos/1024/480/?image=10"/>
+            <b-carousel-slide caption="Second Slide" img-src="https://picsum.photos/1024/480/?image=12"/>
+            <b-carousel-slide caption="Third Slide" img-src="https://picsum.photos/1024/480/?image=22"/>
         </b-carousel>
 
         <b-jumbotron class="text-center" header="we help you to stay competitive"
                      lead="Gemeinsam mit unseren Partnern sorgen wir für eine Reduktion Ihrer IT Ausgaben">
         </b-jumbotron>
 
-        <b-container>
+        <b-container class="bv-example-row">
             <b-row>
                 <b-col>
                     <b-card
-                            title="FULL SSD Storage - Novarion"
-                            img-src="https://blog.notebooksbilliger.de/wp-content/uploads/2018/02/samsung-pm1643-31tb-ssd-title-pixabay-1024x538.jpg"
+                            title="Novarion"
+                            img-src="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_145207213-768x576.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -46,8 +40,8 @@
                 </b-col>
                 <b-col>
                     <b-card
-                            title="IBM Verse - SaaS"
-                            img-src="https://pbs.twimg.com/media/B8-FZ-yIUAEPgOZ.jpg"
+                            title="IBM SaaS"
+                            img-src="http://www.effectit.at/wp-content/uploads/2016/12/ibm.png"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -64,7 +58,7 @@
                 <b-col>
                     <b-card
                             title="Radar Services"
-                            img-src="https://www.phocuswire.com/uploadedimages/uploads/2017/07/bigstock-Birth-Of-Artificial-Intelligen-5717618.jpg?width=800&height=400&scale=both&mode=crop"
+                            img-src="https://picsum.photos/600/300/?image=25"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -102,30 +96,7 @@
 </template>
 
 <script>
-    import NavBar from './components/NavBar.vue'
-    import Maintainence from './components/Maintainence.vue'
-
     export default {
-        name: 'app',
-        components: {
-            NavBar,
-            Maintainence
-        }
+        name: 'Home'
     }
 </script>
-
-<style>
-    .navbar-dark .navbar-nav .nav-link {
-        color: #3d3c3e !important;
-    }
-
-    .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-        color: #222746 !important;
-        background: rgba(169, 169, 169, 0.24);
-    }
-
-    footer {
-        background: #f7f7f7;
-        font-size: .875rem;
-    }
-</style>
