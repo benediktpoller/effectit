@@ -25,7 +25,7 @@
 
                 <h2>Service</h2>
                 <p>Wir bieten Hardware-Wartung und <a href="http://www.effectit.at/de/systemhandel/"> IT
-                    Systemhandel</a> für Ihr Rechenzentrum. Im&nbsp;Durchschnitt bis zu 50% billiger als
+                    Systemhandel</a> für Ihr Rechenzentrum. Im Durchschnitt bis zu 50% billiger als
                     die Hersteller.<br>
                     <strong>Hersteller wie HP, DELL, CISCO, IBM, EMC, NetApp, Brocade, HDS, Fujitsu, SUN
                         / Oracle, transtec, Alpha, Bull, etc.</strong></p>
@@ -49,16 +49,16 @@
                     <li>Dritt-Wartung auch für Netzwerk-Hardware verfügbar (zB Cisco, Brocade, HP,
                         etc.)
                     </li>
-                    <li>Wartungsverträge&nbsp;auf Monatsbasis</li>
-                    <li>Wartung&nbsp;für End-of-Service Maschinen (zB &nbsp;N-Series, Bull, Alpha, AS /
+                    <li>Wartungsverträge auf Monatsbasis</li>
+                    <li>Wartung für End-of-Service Maschinen (zB  N-Series, Bull, Alpha, AS /
                         400, transtec …)
                     </li>
                     <li>weltweite Hardware-Wartung</li>
 
                 </ul>
                 <p>Referenzen vorhanden – ich verbinde Sie direkt mit ihnen!</p>
-                <p>Wir haben Stützpunkte&nbsp;in ganz Österreich, wo insgesamt 20 Techniker beschäftigt
-                    sind. In Deutschland gibt es ca. 200 Techniker &nbsp;die auch Backup für Österreich
+                <p>Wir haben Stützpunkte in ganz Österreich, wo insgesamt 20 Techniker beschäftigt
+                    sind. In Deutschland gibt es ca. 200 Techniker  die auch Backup für Österreich
                     sind.</p>
             </b-col>
             <b-col>
@@ -71,8 +71,8 @@
                             <li>Dritt-Wartung auch für Netzwerk-Hardware verfügbar (zB Cisco, Brocade, HP,
                                 etc.)
                             </li>
-                            <li>Wartungsverträge&nbsp;auf Monatsbasis</li>
-                            <li>Wartung&nbsp;für End-of-Service Maschinen (zB &nbsp;N-Series, Bull, Alpha, AS /
+                            <li>Wartungsverträge auf Monatsbasis</li>
+                            <li>Wartung für End-of-Service Maschinen (zB  N-Series, Bull, Alpha, AS /
                                 400, transtec …)
                             </li>
                             <li>weltweite Hardware-Wartung</li>
