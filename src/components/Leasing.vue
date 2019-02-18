@@ -1,6 +1,6 @@
 <template>
 
-    <b-container class="mt-4 mb-2">
+    <b-container>
 
         <h1>Finanzierungs&shy;angebote werden in vielen Geschäfts&shy;situationen erwartet.</h1>
 
@@ -15,7 +15,7 @@
                 angenommen.
             </p>
 
-            <h3>Wir finden für Sie die beste Finanzierungsmöglichkeit.</h3>
+            <h3>Wir finden für Sie die beste Finanzierungs&shy;möglichkeit.</h3>
             <p>
                 Denn die Kernkompetenz unseres Finanzierungspartners liegt im hersteller- und bankenunabhängigen IT
                 Leasing. Beginnend schon mit kleinen Beträgen. Denn wir wollen allen effect IT Kunden, gezielt auch

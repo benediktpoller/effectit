@@ -1,7 +1,5 @@
 <template>
-
-    <b-container class="mt-4 mb-2">
-
+    <b-container>
         <div class="entry-content">
             <div class="inner">
                 <div class="text-image">
@@ -15,12 +13,11 @@
                     <p>Mit dem Einsatz nachhaltiger Service- und Hardware-Produkte lassen sich diese Einsparungen
                         erzielen. Bei einer Laufzeit von z.B. 5 Jahren können Sie nochmals bis zu 25% Ihres geplanten IT
                         Budgets lukrieren.</p>
-                    <div style="text-align: center;">
-                        <img class="img-fluid img-thumbnail"
-                             src="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png"
-                             srcset="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png 1024w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-300x172.png 300w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-768x441.png 768w"
-                             >
-                    </div>
+
+                    <img class="img-fluid img-thumbnail"
+                         src="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png"
+                         srcset="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png 1024w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-300x172.png 300w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-768x441.png 768w"
+                    >
 
                     <p>
                         <strong>Unser Portfolio unterstützt so Ihre mittel- und langfristigen Finanzierungsziele.
@@ -37,7 +34,6 @@
                     </b-alert>
                 </div>
             </div>
-        </div>
         </div>
     </b-container>
 </template>

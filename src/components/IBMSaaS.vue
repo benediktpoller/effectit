@@ -1,6 +1,6 @@
 <template>
 
-    <b-container class="mt-4 mb-2">
+    <b-container>
 
         <div class="entry-content">
             <div class="inner center">

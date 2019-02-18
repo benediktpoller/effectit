@@ -1,6 +1,6 @@
 <template>
 
-    <b-container class="mt-4 mb-2">
+    <b-container>
 
         <b-jumbotron header="IT Wartung" lead="Bis zu 60% weniger Wartungskosten im Vergleich zum Hersteller.">
             <p>Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten SLA und den Standort der Maschinen.</p>

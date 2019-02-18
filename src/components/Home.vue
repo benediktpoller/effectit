@@ -8,8 +8,10 @@
                 img-width="1024"
                 img-height="480"
         >
-            <b-carousel-slide caption="Defend your business" img-src="https://hammerheaddomains.com/wp-content/uploads/2015/12/pbn-hosting-data-center.jpg"/>
-            <b-carousel-slide caption="Optimale IT Wartung" img-src="https://www.akita.co.uk/wp-content/uploads/2017/03/Server.jpg"/>
+            <b-carousel-slide caption="Defend your business"
+                              img-src="https://hammerheaddomains.com/wp-content/uploads/2015/12/pbn-hosting-data-center.jpg"/>
+            <b-carousel-slide caption="Optimale IT Wartung"
+                              img-src="https://www.akita.co.uk/wp-content/uploads/2017/03/Server.jpg"/>
             <b-carousel-slide caption="Früh wissen, was passiert" img-src="https://picsum.photos/1024/480/?image=22"/>
         </b-carousel>
 
@@ -74,6 +76,17 @@
                 </b-col>
             </b-row>
         </b-container>
+
+        <b-container class="partner">
+            <img src="@/assets/img/partner/12552_arrow.jpg" class="img-thumbnail">
+            <img src="@/assets/img/partner/am.png" class="img-thumbnail">
+            <img src="@/assets/img/partner/grenke.jpg" class="img-thumbnail">
+            <img src="@/assets/img/partner/ibm-business-partner.jpg" class="img-thumbnail">
+            <img src="@/assets/img/partner/Logo_TechData.svg_.png" class="img-thumbnail">
+            <img src="@/assets/img/partner/novarion.jpg" class="img-thumbnail">
+            <img src="@/assets/img/partner/pixxio_logo.jpg" class="img-thumbnail">
+            <img src="@/assets/img/partner/RadarServices-Logo_web.png" class="img-thumbnail">
+        </b-container>
     </div>
 </template>
 
@@ -82,3 +95,11 @@
         name: 'Home'
     }
 </script>
+
+<style scoped>
+
+    .partner img {
+        max-width: 3em;
+        height: auto;
+    }
+</style>

@@ -40,4 +40,13 @@
     .navbar-toggler {
         background-color: #7cbfea !important;
     }
+
+    #app > .container {
+        padding: 2em 0;
+    }
+
+    h2, h3 {
+        margin: 0.75em 0 !important;
+        color: rgb(121, 117, 117);
+    }
 </style>

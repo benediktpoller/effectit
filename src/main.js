@@ -20,6 +20,7 @@ import Leasing from "./components/Leasing";
 import FXF from "./components/FXF";
 import IBMSaaS from "./components/IBMSaaS";
 import Imprint from "./components/content/common/Imprint";
+import Contact from "./components/content/common/Contact";
 
 Vue.config.productionTip = false
 
@@ -71,13 +72,18 @@ const routes = [
         path: '/imprint',
         name: 'imprint',
         component: Imprint
+    },
+    {
+        path: '/contact',
+        name: 'contact',
+        component: Contact
     }
 ]
 
 const router = new VueRouter({
     mode: 'history',
     routes,
-    scrollBehavior(to, from, savedPosition) {
+    scrollBehavior() {
         return {x: 0, y: 0}
     }
 })

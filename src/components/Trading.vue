@@ -1,6 +1,6 @@
 <template>
 
-    <b-container class="mt-4 mb-2">
+    <b-container>
 
         <h1>Wir bieten Systemhandel für das Rechenzentrum an.</h1>
 
