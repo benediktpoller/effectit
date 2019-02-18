@@ -1,7 +1,5 @@
 <template>
-
     <b-container>
-
         <h1>Wir bieten Systemhandel für das Rechenzentrum an.</h1>
 
         <img class="img-fluid img-thumbnail"
@@ -12,7 +10,8 @@
         <h3>Refurbished Hardware: Um bis zu 70% günstiger als eine Neuanschaffung.</h3>
         <p>Sie erhalten signifikant günstigere System-Erweiterungen inklusive Einbau, Abnahme und Übergabe. Auf Wunsch
             mit Hardware-Wartung, völlig risikofrei.</p>
-        <p><strong>Neuwertige originale Hardware wie zB. Erweiterungen für HP, IBM, EMC, HDS, Dell, Fujitsu, 3PAR,
+        <p>
+            <strong>Neuwertige originale Hardware wie zB. Erweiterungen für HP, IBM, EMC, HDS, Dell, Fujitsu, 3PAR,
             transtec, Tape Libraries (Upgrade der Laufwerke zB. von LTO 5 auf LTO 7) oder um ganze Frames erweitern,
             usw.</strong> Wir bieten refurbished Hardware aller bekannten Hersteller für Kassen-Systeme (<abbr
                 title="Point of Sales">PoS</abbr>), Server, Storage, Tape Libraries, Mainframes, Netzwerk-Hardware an.
@@ -23,7 +22,7 @@
             betragen nur ein Bruchteil verglichen mit einer Neuanschaffung.</p>
         <b-alert variant="success" show>
             Bestes Service Level Agreement und kostenlose Beratung!
-            <a href="http://www.effectit.at/de/kontakt/">Kontakt-Formular</a>.
+            <b-link to="/contact">Kontakt-Formular</b-link>.
         </b-alert>
     </b-container>
 </template>

@@ -37,7 +37,7 @@
                     <li>Professionelle Suche und Filter</li>
                 </ul>
                 <b-alert variant="success" show>
-                    Einen Gesprächstermin erhalten Sie ganz bequem über unser <a href="http://www.effectit.at/de/kontakt/">Kontakt-Formular</a>
+                    Einen Gesprächstermin erhalten Sie ganz bequem über unser <b-link to="/contact">Kontakt-Formular</b-link>
                 </b-alert>
             </div>
         </div>

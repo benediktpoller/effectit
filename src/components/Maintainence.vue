@@ -3,9 +3,10 @@
     <b-container>
 
         <b-jumbotron header="IT Wartung" lead="Bis zu 60% weniger Wartungskosten im Vergleich zum Hersteller.">
-            <p>Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten SLA und den Standort der Maschinen.</p>
+            <p>Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten SLA und den Standort
+                der Maschinen.</p>
 
-            <b-button variant="primary" href="#">Jetzt kontaktieren</b-button>
+            <b-button variant="primary" to="/contact">Jetzt kontaktieren</b-button>
         </b-jumbotron>
 
         <b-row>
@@ -22,8 +23,11 @@
                     .</p>
 
                 <h2>Service</h2>
-                <p>Wir bieten Hardware-Wartung und <b-link to="/systemhandel"> IT
-                    Systemhandel</b-link> für Ihr Rechenzentrum. Im Durchschnitt bis zu 50% billiger als
+                <p>Wir bieten Hardware-Wartung und
+                    <b-link to="/systemhandel"> IT
+                        Systemhandel
+                    </b-link>
+                    für Ihr Rechenzentrum. Im Durchschnitt bis zu 50% billiger als
                     die Hersteller.<br>
                     <strong>Hersteller wie HP, DELL, CISCO, IBM, EMC, NetApp, Brocade, HDS, Fujitsu, SUN
                         / Oracle, transtec, Alpha, Bull, etc.</strong></p>
@@ -53,7 +57,7 @@
                         etc.)
                     </li>
                     <li>Wartungsverträge auf Monatsbasis</li>
-                    <li>Wartung für End-of-Service Maschinen (zB  N-Series, Bull, Alpha, AS /
+                    <li>Wartung für End-of-Service Maschinen (zB N-Series, Bull, Alpha, AS /
                         400, transtec …)
                     </li>
                     <li>weltweite Hardware-Wartung</li>
@@ -61,28 +65,22 @@
                 </ul>
                 <p>Referenzen vorhanden – ich verbinde Sie direkt mit ihnen!</p>
                 <p>Wir haben Stützpunkte in ganz Österreich, wo insgesamt 20 Techniker beschäftigt
-                    sind. In Deutschland gibt es ca. 200 Techniker  die auch Backup für Österreich
+                    sind. In Deutschland gibt es ca. 200 Techniker die auch Backup für Österreich
                     sind.</p>
             </b-col>
             <b-col>
-                <b-card
-                        title="Ihre Vorteile"
-                        class="mt-4"
-                >
+                <b-card title="Ihre Vorteile" class="mt-4">
                     <b-card-text>
                         <ul>
                             <li>Dritt-Wartung auch für Netzwerk-Hardware verfügbar (zB Cisco, Brocade, HP,
                                 etc.)
                             </li>
                             <li>Wartungsverträge auf Monatsbasis</li>
-                            <li>Wartung für End-of-Service Maschinen (zB  N-Series, Bull, Alpha, AS /
-                                400, transtec …)
+                            <li>Wartung für End-of-Service Maschinen (zB N-Series, Bull, Alpha, AS /
+                                400, transtec ...)
                             </li>
                             <li>weltweite Hardware-Wartung</li>
-
                         </ul>
-
-
                     </b-card-text>
 
                     <b-card-footer>
@@ -90,7 +88,7 @@
                             Lassen Sie sich von uns überzeugen. Vergleichen Sie uns. Wir freuen uns auf Sie!
                         </p>
 
-                        <b-button href="#" variant="primary">Kontaktieren</b-button>
+                        <b-button to="/contact" variant="primary">Kontaktieren</b-button>
                     </b-card-footer>
                 </b-card>
             </b-col>

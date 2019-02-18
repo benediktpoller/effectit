@@ -30,7 +30,7 @@
 
                     <b-alert variant="success" show>
                         Wenn wir Ihre Neugier und Ihr Interesse geweckt haben, freuen wir uns:
-                        <a href="http://www.effectit.at/de/kontakt/">Kontakt-Formular</a>
+                        <b-link to="/contact">Kontakt-Formular</b-link>
                     </b-alert>
                 </div>
             </div>
