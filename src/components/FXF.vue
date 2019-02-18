@@ -16,11 +16,10 @@
                         erzielen. Bei einer Laufzeit von z.B. 5 Jahren können Sie nochmals bis zu 25% Ihres geplanten IT
                         Budgets lukrieren.</p>
                     <div style="text-align: center;">
-                        <img class="alignnone wp-image-642 size-large"
+                        <img class="img-fluid img-thumbnail"
                              src="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png"
-                             width="840" height="482"
                              srcset="http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-1024x588.png 1024w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-300x172.png 300w, http://www.effectit.at/wp-content/uploads/2016/10/eig_it_budget_5x5-2-1-768x441.png 768w"
-                             sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px">
+                             >
                     </div>
 
                     <p>

@@ -4,7 +4,7 @@
             <ul class="bd-footer-links">
                 <li><b-link to="/tos">{{ $t("tos") }}</b-link></li>
                 <li><b-link to="/imprint">{{ $t("imprint") }}</b-link></li>
-                <li><b-link to="/gdpr">{{ $t("gdpr") }}</b-link></li>
+                <!--<li><b-link to="/gdpr">{{ $t("gdpr") }}</b-link></li>-->
                 <li><b-link to="/contact">{{ $t("contact") }}</b-link></li>
             </ul>
             <p>Copyright 2019 effect IT GmbH. All rights reserved.</p>

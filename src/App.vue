@@ -31,4 +31,13 @@
         color: #222746 !important;
         background: rgba(169, 169, 169, 0.24);
     }
+
+    img {
+        max-width: 100%;
+        height: auto
+    }
+
+    .navbar-toggler {
+        background-color: #7cbfea !important;
+    }
 </style>

@@ -2,13 +2,12 @@
 
     <b-container class="mt-4 mb-2">
 
-        <h1>Finanzierungsangebote werden in vielen Geschäftssituationen erwartet.</h1>
+        <h1>Finanzierungs&shy;angebote werden in vielen Geschäfts&shy;situationen erwartet.</h1>
 
-            <img class="alignnone wp-image-369"
+            <img class="img-fluid img-thumbnail"
                  src="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_393914200-300x180.jpg"
-                 width="500" height="300"
                  srcset="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_393914200-300x180.jpg 300w, http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_393914200-768x461.jpg 768w, http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_393914200-1024x614.jpg 1024w"
-                 sizes="(max-width: 500px) 85vw, 500px">
+                 >
 
             <p>
                 Günstiges Leasing ermöglicht Ihnen die Anschaffung smarter Technologie ohne Kapitalbindung. Dieser

@@ -15,11 +15,9 @@
                     hilft den Benutzern, das Gesuchte schnell zu finden und sich auf die Inhalte zu konzentrieren, die
                     am wichtigsten sind. So können sie engere Arbeitsbeziehungen aufbauen und dabei die
                     Geschäftsergebnisse optimieren.</p>
-                <img class="alignnone wp-image-597 size-full"
-                        src="http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild.jpg" width="618"
-                        height="346"
-                        srcset="http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild.jpg 618w, http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild-300x168.jpg 300w"
-                        sizes="(max-width: 618px) 85vw, 618px">
+                <img class="img-fluid img-thumbnail"
+                        src="http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild.jpg"
+                        srcset="http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild.jpg 618w, http://www.effectit.at/wp-content/uploads/2017/01/IBM-Verse-Vollbild-300x168.jpg 300w">
                 <h3>Was macht IBM Verse besser?</h3>
                 <p>Auf einem Blick sehen Sie Emails, Kalender, die wichtigsten Kontakte und die wichtigsten Teammembers
                     nach Prioritäten gelistet</p>

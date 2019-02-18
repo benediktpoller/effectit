@@ -31,7 +31,7 @@
                     >
                         <b-card-text>
                             NOVARION High End Storage made in Austria<br>
-                            Full SSD Storage ab € 670,— pro TB
+                            Full SSD Storage ab € 670,- pro TB
                         </b-card-text>
 
                         <b-button href="#" variant="primary">Full SSD Storage</b-button>

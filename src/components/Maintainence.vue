@@ -10,10 +10,8 @@
 
         <b-row>
             <b-col>
-
                 <p>
-                    Sie
-                    wissen, dass professionelle Wartung und IT Support Ihres Equipments letztlich einen
+                    Sie wissen, dass professionelle Wartung und IT Support Ihres Equipments letztlich einen
                     erheblichen Beitrag zur Profitabilität Ihres Unternehmens beiträgt.
                 </p>
                 <p>
@@ -24,14 +22,14 @@
                     .</p>
 
                 <h2>Service</h2>
-                <p>Wir bieten Hardware-Wartung und <a href="http://www.effectit.at/de/systemhandel/"> IT
-                    Systemhandel</a> für Ihr Rechenzentrum. Im Durchschnitt bis zu 50% billiger als
+                <p>Wir bieten Hardware-Wartung und <b-link to="/systemhandel"> IT
+                    Systemhandel</b-link> für Ihr Rechenzentrum. Im Durchschnitt bis zu 50% billiger als
                     die Hersteller.<br>
                     <strong>Hersteller wie HP, DELL, CISCO, IBM, EMC, NetApp, Brocade, HDS, Fujitsu, SUN
                         / Oracle, transtec, Alpha, Bull, etc.</strong></p>
 
                 <ul>
-                    <li>Wartungsservice/IT Support für End-of-Life (EOL) -Systeme</li>
+                    <li>Wartungsservice/IT Support für End-of-Life (EOL) - Systeme</li>
                     <li>unterjährige Wartungsverträge (zB für 1, 2, usw. Monate)</li>
                     <li>Wartung für End Points (Desktop, Laptop, WLAN Access Points)</li>
                     <li>System Upgrades</li>
@@ -39,11 +37,16 @@
 
                 <h2>Service Level Agreement</h2>
 
-                <p>Das SLA ist optimal auf Ihre Bedürfnisse abgestimmt. Wir halten jedes SLA unserer
-                    Mitbewerber oder bieten ein besseres.</p>
+                <p>
+                    Das SLA ist optimal auf Ihre Bedürfnisse abgestimmt. Wir halten jedes SLA unserer
+                    Mitbewerber oder bieten ein besseres.
+                </p>
+
                 <h3>Angebot</h3>
-                <p>Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten
-                    SLA und den Standort der Maschinen.</p>
+                <p>
+                    Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten
+                    SLA und den Standort der Maschinen.
+                </p>
                 <p><strong>Weitere Vorteile</strong></p>
                 <ul>
                     <li>Dritt-Wartung auch für Netzwerk-Hardware verfügbar (zB Cisco, Brocade, HP,

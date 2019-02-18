@@ -4,11 +4,10 @@
 
         <h1>Wir bieten Systemhandel für das Rechenzentrum an.</h1>
 
-        <img class="alignnone wp-image-368"
-             src="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-1024x683.jpg" width="500"
-             height="333"
+        <img class="img-fluid img-thumbnail"
+             src="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-1024x683.jpg"
              srcset="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-1024x683.jpg 1024w, http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-300x200.jpg 300w, http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-768x512.jpg 768w"
-             sizes="(max-width: 500px) 85vw, 500px"></div>
+                >
 
         <h3>Refurbished Hardware: Um bis zu 70% günstiger als eine Neuanschaffung.</h3>
         <p>Sie erhalten signifikant günstigere System-Erweiterungen inklusive Einbau, Abnahme und Übergabe. Auf Wunsch
