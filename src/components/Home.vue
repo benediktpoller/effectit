@@ -78,14 +78,17 @@
         </b-container>
 
         <b-container class="partner">
-            <img src="@/assets/img/partner/12552_arrow.jpg" class="img-thumbnail">
-            <img src="@/assets/img/partner/am.png" class="img-thumbnail">
-            <img src="@/assets/img/partner/grenke.jpg" class="img-thumbnail">
-            <img src="@/assets/img/partner/ibm-business-partner.jpg" class="img-thumbnail">
-            <img src="@/assets/img/partner/Logo_TechData.svg_.png" class="img-thumbnail">
-            <img src="@/assets/img/partner/novarion.jpg" class="img-thumbnail">
-            <img src="@/assets/img/partner/pixxio_logo.jpg" class="img-thumbnail">
-            <img src="@/assets/img/partner/RadarServices-Logo_web.png" class="img-thumbnail">
+            <b-link to="/contact?link=arrow"><img src="@/assets/img/partner/12552_arrow.jpg" class="img-thumbnail"></b-link>
+            <b-link to="/contact?am"><img src="@/assets/img/partner/am.png" class="img-thumbnail"></b-link>
+            <b-link to="/contact?grenke"><img src="@/assets/img/partner/grenke.jpg" class="img-thumbnail"></b-link>
+            <b-link to="/contact?arrow"><img src="@/assets/img/partner/ibm-business-partner.jpg" class="img-thumbnail">
+            </b-link>
+            <b-link to="/contact?arrow"><img src="@/assets/img/partner/Logo_TechData.svg_.png" class="img-thumbnail">
+            </b-link>
+            <b-link to="/contact?arrow"><img src="@/assets/img/partner/novarion.jpg" class="img-thumbnail"></b-link>
+            <b-link to="/contact?arrow"><img src="@/assets/img/partner/pixxio_logo.jpg" class="img-thumbnail"></b-link>
+            <b-link to="/contact?arrow"><img src="@/assets/img/partner/RadarServices-Logo_web.png"
+                                             class="img-thumbnail"></b-link>
         </b-container>
     </div>
 </template>

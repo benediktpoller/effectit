@@ -14,13 +14,14 @@ Vue.use(BootstrapVue)
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import Maintainence from "./components/Maintainence";
-import Trading from "./components/Trading";
-import Leasing from "./components/Leasing";
-import FXF from "./components/FXF";
-import IBMSaaS from "./components/IBMSaaS";
-import Imprint from "./components/content/common/Imprint";
-import Contact from "./components/content/common/Contact";
+
+const Maintainence = () => import('././components/Maintainence.vue')
+const Trading = () => import('././components/Trading.vue')
+const Leasing = () => import('././components/Leasing.vue')
+const FXF = () => import('././components/FXF.vue')
+const IBMSaaS = () => import('././components/IBMSaaS.vue')
+const Imprint = () => import('././components/content/common/Imprint.vue')
+const Contact = () => import('././components/content/common/Contact.vue')
 
 Vue.config.productionTip = false
 
