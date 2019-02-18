@@ -2,7 +2,7 @@
 
     <b-container class="mt-4 mb-2">
 
-        <h1>Wir bieten Systemhandel <strong>für das Rechenzentrum</strong> an.</h1>
+        <h1>Wir bieten Systemhandel für das Rechenzentrum an.</h1>
 
         <img class="alignnone wp-image-368"
              src="http://www.effectit.at/wp-content/uploads/2016/12/shutterstock_369967205-1024x683.jpg" width="500"

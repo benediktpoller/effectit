@@ -1,27 +1,27 @@
 <template>
     <b-container>
-        <h1>Allgemeine Geschäftsbedingungen</h1>
+        <h1>Allgemeine Geschäfts&shy;bedingungen</h1>
 
         <p>§1 Geltung</p>
-        <p>Diese Allgemeinen Geschäftsbedingungen gelten für alle abgeschlossenen Verkaufsgeschäfte, Verträge,
+        <p>Diese Allgemeinen Geschäfts&shy;bedingungen gelten für alle abgeschlossenen Verkaufsgeschäfte, Verträge,
             Werkverträge, Aufträge, Abos, Dienstleistungen und damit zusammenhängende Lieferungen, Nachlieferungen und
             Leistungen zwischen der effect IT GmbH im Folgenden „UNTERNEHMER“ genannt und dem jeweiligen
-            Geschäftspartner und Kunden, im Folgenden. „VERTRAGSPARTNER“ genannt. Abweichungen von diesen
-            Geschäftsbedingungen sind nur rechtswirksam, wenn sie durch schriftliche Erklärung von UNTERNEHMER bestätigt
-            werden. Geschäftsbedingungen des Vertragspartners haben keine Gültigkeit, auch wenn UNTERNEHMER diesen nicht
+            Geschäftspartner und Kunden, im Folgenden „VERTRAGSPARTNER“ genannt. Abweichungen von diesen
+            Geschäfts&shy;bedingungen sind nur rechtswirksam, wenn sie durch schriftliche Erklärung von UNTERNEHMER bestätigt
+            werden. Geschäfts&shy;bedingungen des Vertragspartners haben keine Gültigkeit, auch wenn UNTERNEHMER diesen nicht
             widersprochen hat. Ist der Vertragspartner ein Verbraucher im Sinne des Konsumentenschutzgesetzes, so gelten
-            für dieses Rechtsgeschäft in Ergänzung oder Abänderung dieser Allgemeinen Geschäftsbedingungen die
+            für dieses Rechtsgeschäft in Ergänzung oder Abänderung dieser Allgemeinen Geschäfts&shy;bedingungen die
             zwingenden Bestimmungen des Konsumentenschutzgesetzes (KSchG) und des Fern- und Auswärtsgeschäfte-Gesetz
             (FAGG).</p>
-        <p>§ 2 Vertragsbestandteile</p>
+        <p>§ 2 Vertrags&shy;bestandteile</p>
         <p>a) Bestandteile des Vertrages sind der von beiden Vertragsteilen unterfertigte Vertrag, die jeweils im
-            Vertrag genannten Allgemeinen Geschäftsbedingungen, die im Vertrag gegebenenfalls angeführten Angebote,
+            Vertrag genannten Allgemeinen Geschäfts&shy;bedingungen, die im Vertrag gegebenenfalls angeführten Angebote,
             sowie schriftliche Zusatzvereinbarungen.</p>
         <p>b) Das Vertragsverhältnis unterliegt ausschließlich Österreichischem Recht. Für die Anwendung und Auslegung
             der Vertragsbestimmungen gelten in dieser Reihenfolge der individuelle Vertragstext, die gegenständlichen
-            Allgemeinen Geschäftsbedingungen, das UGB und das ABGB. Ist der Vertragspartner Konsument, die
+            Allgemeinen Geschäfts&shy;bedingungen, das UGB und das ABGB. Ist der Vertragspartner Konsument, die
             entsprechenden Bestimmungen des KSchG und das FAGG.</p>
-        <p>c) Die Unwirksamkeit einzelner Teile dieser Allgemeinen Geschäftsbedingungen berührt die Geltung der übrigen
+        <p>c) Die Unwirksamkeit einzelner Teile dieser Allgemeinen Geschäfts&shy;bedingungen berührt die Geltung der übrigen
             Bestimmungen nicht. An die Stelle der unwirksamen Bedingungen treten jene gesetzlichen Bestimmungen, die dem
             rechtlichen und wirtschaftlichen Sinn der unwirksamen Bedingungen am nächsten kommen.</p>
         <p>§ 3 Angebot und Vertragsabschluss</p>
@@ -65,7 +65,7 @@
             möglich, einen pauschalierten Betrag von EUR 40,– an außergerichtlichen Mahnkosten zu verrechnen. Sollte der
             tatsächliche Aufwand über diesem Betrag liegen, ist es UNTERNEHMER gestattet einen höheren Betrag an
             Mahnkosten zu verrechnen.</p>
-        <p>§ 6 Eigentumsvorbehalt</p>
+        <p>§ 6 Eigentums&shy;vorbehalt</p>
         <p>a) Alle erbrachten Leistungen bleiben bis zur vollständigen Bezahlung aller Forderungen aus der
             Geschäftsverbindung zwischen Vertragspartner und UNTERNEHMER das Eigentum von UNTERNEHMER. Zu einer
             Verpfändung und Sicherungsübereignung der Vorbehaltsware oder der an UNTERNEHMER abgetretenen Forderungen,
@@ -79,18 +79,18 @@
             Ware an UNTERNEHMER ab. Weist der Vertragspartner auf Verlangen von UNTERNEHMER den Abschluss der
             Versicherung nicht unverzüglich nach, so ist UNTERNEHMER berechtigt, die Vorbehaltsware selbst auf ihre
             Kosten zu versichern.</p>
-        <p>§ 7 Gefahrenübergang</p>
+        <p>§ 7 Gefahren&shy;übergang</p>
         <p>Die Gefahr einer zufälligen Zerstörung, Beschädigung oder sonstigen Verschlechterung der von UNTERNEHMER
             gelieferten Produkte geht im Falle der Versendung mit der Übergabe an den Spediteur bzw. Transporteur auf
             den Vertragspartner über. Dies gilt auch bei frachtfreier Versendung. Bei Verbrauchern ist der
-            Gefahrenübergang bei Übergabe an diese.</p>
+            Gefahren&shy;übergang bei Übergabe an diese.</p>
         <p>§ 8 Kündigung des Vertrages</p>
         <p>UNTERNEHMER ist zum sofortigen Rücktritt vom Vertrag berechtigt, wenn der Vertragspartner seinen
             Mitwirkungspflichten trotz Mahnung und Setzung einer angemessenen Nachfrist nicht nachkommt oder mit einer
             Zahlung in Verzug gerät und trotz Mahnung und Nachfristsetzung diese Zahlung nicht leistet. UNTERNEHMER ist
             ebenfalls zum Rücktritt berechtigt, wenn sich die Situation während der Ausführung wesentlich von den
             Vertragsgrundlagen ändert.</p>
-        <p>§ 9 Geltung des KSchG. / Rücktrittsrecht bei Verbrauchern</p>
+        <p>§ 9 Geltung des KSchG. / Rücktritts&shy;recht bei Verbrauchern</p>
         <p>a) Ist der Vertragspartner ein Verbraucher, kann dieser bis zum Zustandekommen des Vertrages oder danach
             binnen 14 Tagen schriftlich seinen Rücktritt vom Vertrag aus den in § 3 Abs. 1 und 2 KSchG genannten Gründen
             erklären, wobei die Frist frühestens mit dem Datum des Zustandekommens des Vertrages zu laufen beginnt. Dem
@@ -101,18 +101,18 @@
             Zahlung in Verzug gerät und trotz Mahnung und Nachfristsetzung diese Zahlung nicht leistet. UNTERNEHMER ist
             ebenfalls zum Rücktritt berechtigt, wenn sich die Situation während der Ausführung wesentlich von den
             Vertragsgrundlagen ändert.</p>
-        <p>§ 10 Abtretungsverbot</p>
+        <p>§ 10 Abtretungs&shy;verbot</p>
         <p>Der Vertragspartner kann die Rechte aus dem vorliegenden Vertrag nur mit ausdrücklicher Zustimmung des
             UNTERNEHMERs an Dritte übertragen.</p>
-        <p>§ 11 Gewährleistung und Haftung</p>
+        <p>§ 11 Gewähr&shy;leistung und Haftung</p>
         <p>a) Der Vertragspartner ist verpflichtet, auftauchende Mängel sofort ab Kenntnis, – im Falle eines
             Unternehmers – schriftlich und unverzüglich, zu rügen. Im Sinne der Beweisbarkeit, wird Verbrauchern
             empfohlen, ebenfalls schriftlich zu rügen.</p>
-        <p>b) Bei Vorliegen von Mängeln ist UNTERNEHMER zur Gewährleistung nach den gesetzlichen Bestimmungen
+        <p>b) Bei Vorliegen von Mängeln ist UNTERNEHMER zur Gewähr&shy;leistung nach den gesetzlichen Bestimmungen
             verpflichtet. Der Vertragspartner hat UNTERNEHMER die Möglichkeit einzuräumen, selbst oder durch von diesem
             ausgewählte Dritte die Mängel zu beseitigen. UNTERNEHMER muss daher immer die Möglichkeit zur
             Verbesserung/zum Austausch gegeben werden.</p>
-        <p>c) Die Gewährleistung entfällt ferner, wenn Seriennummer, Typenbezeichnung, Herstellerbezeichnung oder
+        <p>c) Die Gewähr&shy;leistung entfällt ferner, wenn Seriennummer, Typenbezeichnung, Herstellerbezeichnung oder
             Kennzeichen entfernt, oder unleserlich gemacht werden.</p>
         <p>d) UNTERNEHMER haftet lediglich für die gewöhnlich vorausgesetzten Eigenschafen einer Ware, worunter die von
             den Herstellern angegebenen Produkteigenschaften sowie jene Eigenschaften, die bei sachgerechter und
@@ -152,7 +152,7 @@
         <p>§ 14 Allgemeines</p>
         <p>Änderungen und Ergänzungen zum Vertrag bedürfen der Schriftform. Dies gilt insbesondere für den Verzicht auf
             das Schriftformerfordernis.</p>
-        <p>§ 15 Einwilligungserklärung gemäß Datenschutzgrundverordnung (DSGVO):</p>
+        <p>§ 15 Einwilligungs&shy;erklärung gemäß Datenschutz&shy;grund&shy;verordnung (DSGVO):</p>
         <p>a) Daten:<br>
             Der Auftraggeber wurde darauf hingewiesen und erklärt sich damit einverstanden, dass folgende Firmendaten
             (Firmennamen, Ansprechpartner, Anschrift, Kontaktdaten, UID-Nummer, Firmenbuchnummer) und personenbezogene
@@ -168,7 +168,7 @@
             zur Beendigung der Geschäftsbeziehungen, physisch und technisch geschützt aufbewahrt.</p>
         <p>d) Einwilligung:<br>
             Der Auftraggeber wurde darauf hingewiesen, dass die im Rahmen der vorstehend genannten Zwecke erhobenen
-            persönlichen Daten unter Beachtung der Datenschutzgrundverordnung (DSGVO), erhoben, verarbeitet, genutzt und
+            persönlichen Daten unter Beachtung der Datenschutz&shy;grund&shy;verordnung (DSGVO), erhoben, verarbeitet, genutzt und
             übermittelt werden. Der Auftraggeber wurde zudem darauf hingewiesen, dass die Erhebung, Verarbeitung und
             Nutzung der Auftraggeberdaten auf freiwilliger Basis erfolgt. Ferner, dass der Auftraggeber sein
             Einverständnis ohne für die effect IT GmbH nachteilige Folgen bzw. mit der Folge, dass Aufträge bzw.

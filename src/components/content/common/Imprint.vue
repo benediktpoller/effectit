@@ -59,8 +59,8 @@
             Mit der Nutzung der Websites wird dabei die Zustimmung erteilt, dass die bereitgestellten personenbezogenen
             Daten (zB Name, Adresse, Verbindungsdaten, IP-Adressen, Serverlogs) iSd Datenschutzgesetzes 2000 verwendet
             werden können. Diese Zustimmung zur Verwendung und Verarbeitung personenbezogener Daten kann von den Nutzern
-            jederzeit und frei widerrufen. Weitere Informationen bzgl. Datenschutzgrundverordnung (DSGVO) sind in den
-            Allgemeinen Geschäftsbedingungen (AGB) einsehbar.</p>
+            jederzeit und frei widerrufen. Weitere Informationen bzgl. Datenschutz&shy;grund&shy;verordnung (DSGVO) sind in den
+            Allgemeinen Geschäfts&shy;bedingungen (AGB) einsehbar.</p>
 
         <h3>Urheberrechte</h3>
         <p>Die Inhalte dieser Websites sind urheberrechtlich geschützt, der Seitenbetreiber gestattet jedoch

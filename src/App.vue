@@ -11,16 +11,12 @@
 
 <script>
     import NavBar from './components/NavBar.vue'
-    import Maintainence from './components/Maintainence.vue'
     import Footer from './components/Footer.vue'
-    import Home from "./components/Home";
 
     export default {
         name: 'app',
         components: {
-            Home,
             NavBar,
-            Maintainence,
             Footer
         }
     }
