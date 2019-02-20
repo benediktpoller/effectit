@@ -14,6 +14,7 @@ Vue.use(BootstrapVue)
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import RadarSmartSolution from "./components/RadarSmartSolution";
 
 const Maintainence = () => import('././components/Maintainence.vue')
 const Trading = () => import('././components/Trading.vue')
@@ -38,6 +39,11 @@ const routes = [
         path: '/',
         name: 'home',
         component: Home
+    },
+    {
+        path: '/radar-smart-solution',
+        name: 'radarsmartsolution',
+        component: RadarSmartSolution
     },
     {
         path: '/it-wartung',

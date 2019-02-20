@@ -1,7 +1,7 @@
 <template>
     <b-navbar toggleable="lg" type="dark" variant="light" sticky="true">
         <b-navbar-brand to="/">
-            <img src="@/assets/img/effectit_logo.png" class="logo" style="max-height: 30px" alt="effectIT GmbH">
+            <img src="@/assets/img/effectit_logo.png" class="logo" style="max-height: 50px" alt="effectIT GmbH">
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav_collapse"/>

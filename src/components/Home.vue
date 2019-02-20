@@ -23,7 +23,7 @@
             <b-row>
                 <b-col>
                     <b-card
-                            title="FULL SSD Storage - Novarion"
+                            title="Radar Smart Solutions"
                             img-src="https://blog.notebooksbilliger.de/wp-content/uploads/2018/02/samsung-pm1643-31tb-ssd-title-pixabay-1024x538.jpg"
                             img-alt="Image"
                             img-top
@@ -32,16 +32,16 @@
                             class="mb-2"
                     >
                         <b-card-text>
-                            NOVARION High End Storage made in Austria<br>
-                            Full SSD Storage ab € 670,- pro TB
+                            Kontinuierliches IT Security Monitoring für Unternehmen
+                            mit bis zu 500 Mitarbeitern
                         </b-card-text>
 
-                        <b-button href="#" variant="primary">Full SSD Storage</b-button>
+                        <b-button to="/radar-smart-solution" variant="primary">Weitere Information</b-button>
                     </b-card>
                 </b-col>
                 <b-col>
                     <b-card
-                            title="IBM Verse - SaaS"
+                            title="IBM Verse - SaaSjhjh"
                             img-src="https://pbs.twimg.com/media/B8-FZ-yIUAEPgOZ.jpg"
                             img-alt="Image"
                             img-top
@@ -85,8 +85,6 @@
             </b-link>
             <b-link to="/contact?arrow"><img src="@/assets/img/partner/Logo_TechData.svg_.png" class="img-thumbnail">
             </b-link>
-            <b-link to="/contact?arrow"><img src="@/assets/img/partner/novarion.jpg" class="img-thumbnail"></b-link>
-            <b-link to="/contact?arrow"><img src="@/assets/img/partner/pixxio_logo.jpg" class="img-thumbnail"></b-link>
             <b-link to="/contact?arrow"><img src="@/assets/img/partner/RadarServices-Logo_web.png"
                                              class="img-thumbnail"></b-link>
         </b-container>
