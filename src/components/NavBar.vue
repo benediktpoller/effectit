@@ -13,15 +13,8 @@
                 <b-nav-item-dropdown text="Security">
                     <b-dropdown-item to="/radar-smart-solution">RadarServices</b-dropdown-item>
                     <b-dropdown-item to="/radar-smart-solution">Radar Smart Solution</b-dropdown-item>
-
-
                 </b-nav-item-dropdown>
-                <b-nav-item-dropdown text="NAME FEHLT">
-                    <b-dropdown-item to="/iso-zertifizierung">ISO-Zertifizierung</b-dropdown-item>
-
-
-                </b-nav-item-dropdown>
-
+                <b-nav-item to="/iso-zertifizierung">ISO-Zertifizierung</b-nav-item>
                 <b-nav-item to="/leasing">Leasing</b-nav-item>
                 <b-nav-item to="/5x5">5x5</b-nav-item>
             </b-navbar-nav>
@@ -35,10 +28,20 @@
                 </b-nav-form>
                 -->
 
+                <b-nav-item href="#" @click="changeLanguage('en')">
+                    <img src="http://files.softicons.com/download/web-icons/language-flags-icons-by-double-j-design/png/64x64/english_flag.png">
+                    English
+                </b-nav-item>
+
+                <b-nav-item href="#" @click="changeLanguage('de')">
+                    <img src="http://files.softicons.com/download/web-icons/language-flags-icons-by-double-j-design/png/64x64/english_flag.png">
+                    Deutsch
+                </b-nav-item>
+                <!--
                 <b-nav-item-dropdown text="Language" right>
                     <b-dropdown-item href="#english" @click="changeLanguage('en')">English</b-dropdown-item>
                     <b-dropdown-item href="#deutsch" @click="changeLanguage('de')">Deutsch</b-dropdown-item>
-                </b-nav-item-dropdown>
+                </b-nav-item-dropdown>-->
             </b-navbar-nav>
         </b-collapse>
     </b-navbar>

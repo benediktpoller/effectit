@@ -30,7 +30,7 @@
         <h3>Vorteile</h3>
         <p>Jahrelange Praxiserfahrung, fachliche Kompetenz, Empathie, Verlässlichkeit, Praxisnähe und
             Umsetzungsstärke</p>
-        <h3>PORTFOLIO</h3>
+        <h3>Portfolio</h3>
         <ul>
             <li>Entwicklung und Implementierung von normgestützten Managementsystemen</li>
             <li>Abgrenzung und Optimierung von Unternehmensprozessen</li>
@@ -40,7 +40,7 @@
             <li>Vorbereitung und Begleitung bei Zertifizierungsverfahren für Unternehmen und Personen</li>
             <li>Planung, Moderation und Berichterstattung der Managementreviews</li>
         </ul>
-        <h3>Lehergänge und Seminare</h3>
+        <h3>Lehrgänge und Seminare</h3>
         <ul>
             <li>Auditoren</li>
             <li>Beauftragte für normgestützte Managementsysteme (zB. Qualitätsbeauftragte)</li>
