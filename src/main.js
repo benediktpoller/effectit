@@ -15,12 +15,14 @@ Vue.use(BootstrapVue)
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import RadarSmartSolution from "./components/RadarSmartSolution";
+import LandingPage from "./components/LandingPage";
+import Schulungen from "./components/Schulungen";
+import IsoZertifizierung from "./components/IsoZertifizierung";
 
 const Maintainence = () => import('././components/Maintainence.vue')
 const Trading = () => import('././components/Trading.vue')
 const Leasing = () => import('././components/Leasing.vue')
 const FXF = () => import('././components/FXF.vue')
-const IBMSaaS = () => import('././components/IBMSaaS.vue')
 const Imprint = () => import('././components/content/common/Imprint.vue')
 const Contact = () => import('././components/content/common/Contact.vue')
 
@@ -46,6 +48,22 @@ const routes = [
         component: RadarSmartSolution
     },
     {
+        path: '/iso-zertifizierung',
+        name: 'radarsmartsolution',
+        component: IsoZertifizierung
+    },
+
+    {
+        path: '/landing',
+        name: 'landingpage',
+        component: LandingPage
+    },
+    {
+        path: '/landing2',
+        name: 'schulungen',
+        component: Schulungen
+    },
+    {
         path: '/it-wartung',
         name: 'maintainence',
         component: Maintainence
@@ -64,11 +82,6 @@ const routes = [
         path: '/5x5',
         name: '5x5',
         component: FXF
-    },
-    {
-        path: '/ibm-saas',
-        name: 'ibm-saas',
-        component: IBMSaaS
     },
     {
         path: '/tos',

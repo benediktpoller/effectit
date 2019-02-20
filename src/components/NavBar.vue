@@ -8,11 +8,22 @@
 
         <b-collapse is-nav id="nav_collapse">
             <b-navbar-nav>
-                <b-nav-item to="/it-wartung">IT Wartung</b-nav-item>
-                <b-nav-item to="/it-systemhandel">IT Systemhandel</b-nav-item>
+                <b-nav-item to="/it-wartung">Wartung</b-nav-item>
+                <b-nav-item to="/it-systemhandel">Systemhandel</b-nav-item>
+                <b-nav-item-dropdown text="Security">
+                    <b-dropdown-item to="/radar-smart-solution">RadarServices</b-dropdown-item>
+                    <b-dropdown-item to="/radar-smart-solution">Radar Smart Solution</b-dropdown-item>
+
+
+                </b-nav-item-dropdown>
+                <b-nav-item-dropdown text="NAME FEHLT">
+                    <b-dropdown-item to="/iso-zertifizierung">ISO-Zertifizierung</b-dropdown-item>
+
+
+                </b-nav-item-dropdown>
+
                 <b-nav-item to="/leasing">Leasing</b-nav-item>
                 <b-nav-item to="/5x5">5x5</b-nav-item>
-                <b-nav-item to="/ibm-saas">IBM SaaS</b-nav-item>
             </b-navbar-nav>
 
             <!-- Right aligned nav items -->

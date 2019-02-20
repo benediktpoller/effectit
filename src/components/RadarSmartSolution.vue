@@ -2,7 +2,7 @@
 
     <b-container>
 
-        <b-jumbotron header="RadarSmartSolution" lead="Bis zu 60% weniger Wartungskosten im Vergleich zum Hersteller.">
+        <b-jumbotron header="Radar Smart Solution" lead="Bis zu 60% weniger Wartungskosten im Vergleich zum Hersteller.">
             <p>Für ein Vergleichsangebot benötigen wir eine Maschinenkonfiguration, den gewünschten SLA und den Standort
                 der Maschinen.</p>
 
