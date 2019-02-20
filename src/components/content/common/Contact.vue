@@ -2,7 +2,7 @@
     <b-container>
         <b-row>
             <b-col md="6" sm="12">
-                <form name="contact" method="POST" data-netlify="true">
+                <form action="/contact/success" name="contact" method="POST" data-netlify="true">
                     <div class="form-group">
                         <label for="nameInput">Name</label>
                         <input type="text" class="form-control" id="nameInput">
@@ -35,6 +35,6 @@
 
 <script>
     export default {
-        name: 'tos'
+        name: 'contact'
     }
 </script>

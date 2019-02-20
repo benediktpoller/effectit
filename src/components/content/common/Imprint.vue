@@ -74,6 +74,6 @@
 
 <script>
     export default {
-        name: 'tos'
+        name: 'imprint'
     }
 </script>

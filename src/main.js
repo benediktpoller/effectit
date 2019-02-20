@@ -18,6 +18,7 @@ import RadarSmartSolution from "./components/RadarSmartSolution";
 import LandingPage from "./components/LandingPage";
 import Schulungen from "./components/Schulungen";
 import IsoZertifizierung from "./components/IsoZertifizierung";
+import ContactSuccess from "./components/content/common/ContactSuccess";
 
 const Maintainence = () => import('././components/Maintainence.vue')
 const Trading = () => import('././components/Trading.vue')
@@ -97,6 +98,12 @@ const routes = [
         path: '/contact',
         name: 'contact',
         component: Contact
+    },
+
+    {
+        path: '/contact/success',
+        name: 'contactsuccess',
+        component: ContactSuccess
     }
 ]
 
