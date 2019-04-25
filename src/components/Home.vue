@@ -59,7 +59,7 @@
                 <b-col>
                     <b-card
                             title="Radar Services"
-                            img-src="@/assets/img/finger.jpg"
+                            img-src="assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -84,7 +84,7 @@
                 <b-col>
                     <b-card
                             title="effect IT in 60 Sekunden"
-                            img-src="@/assets/img/finger.jpg"
+                            img-src="assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -102,7 +102,7 @@
                 <b-col>
                     <b-card
                             title="mathekugel"
-                            img-src="/assets/img/finger.jpg"
+                            img-src="assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
