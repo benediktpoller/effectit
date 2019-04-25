@@ -140,7 +140,7 @@
 
         <div class="sec60">
             <h1>effect IT in 60 Sekunden</h1>
-            <p>Avada includes integration for the most popular shop plugin, WooCommerce. Our custom design and unique shop shortcodes will allow your products to shine.  Avada + WooCommerce makes it easy to have an online shop.</p>
+            <p>Gegründet wurde im März 2015, und wir wachsen stetig. In der Zwischenzeit haben wir bis zu 4 Mitarbeiter - eine Angestellte und je nach Projekte haben wir ein bis zwei Spezialisten auf Basis eines Werkvertrags. </p>
             <div class="content">
                 <img src="https://avada.theme-fusion.com/wp-content/uploads/2014/09/layouts_white.jpg">
             </div>
