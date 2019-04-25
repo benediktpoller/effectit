@@ -59,7 +59,7 @@
                 <b-col>
                     <b-card
                             title="Radar Services"
-                            img-src="https://www.phocuswire.com/uploadedimages/uploads/2017/07/bigstock-Birth-Of-Artificial-Intelligen-5717618.jpg?width=800&height=400&scale=both&mode=crop"
+                            img-src="@/assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -84,7 +84,7 @@
                 <b-col>
                     <b-card
                             title="effect IT in 60 Sekunden"
-                            img-src="https://www.phocuswire.com/uploadedimages/uploads/2017/07/bigstock-Birth-Of-Artificial-Intelligen-5717618.jpg?width=800&height=400&scale=both&mode=crop"
+                            img-src="@/assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -102,7 +102,7 @@
                 <b-col>
                     <b-card
                             title="mathekugel"
-                            img-src="https://www.phocuswire.com/uploadedimages/uploads/2017/07/bigstock-Birth-Of-Artificial-Intelligen-5717618.jpg?width=800&height=400&scale=both&mode=crop"
+                            img-src="/assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"
@@ -120,7 +120,7 @@
                 <b-col>
                     <b-card
                             title="schulungen"
-                            img-src="https://www.phocuswire.com/uploadedimages/uploads/2017/07/bigstock-Birth-Of-Artificial-Intelligen-5717618.jpg?width=800&height=400&scale=both&mode=crop"
+                            img-src="assets/img/finger.jpg"
                             img-alt="Image"
                             img-top
                             tag="article"

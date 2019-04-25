@@ -224,7 +224,7 @@
         <h2>§14 Allgemeines</h2>
         <p>Änderungen und Ergänzungen zum Vertrag bedürfen der Schriftform. Dies gilt insbesondere für den Verzicht auf
             das Schriftformerfordernis.</p>
-        <h2>§15 Einwilligungs&shy;erklärung gemäß Datenschutz&shy;grund&shy;verordnung (DSGVO):</h2>
+        <h2>§15 Einwilligungs&shy;erklärung gemäß Datenschutz&shy;grund&shy;verordnung (DSGVO)</h2>
         <ol>
             <li>
                 <strong>Daten</strong>

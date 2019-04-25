@@ -14,18 +14,18 @@ Vue.use(BootstrapVue)
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import RadarSmartSolution from "./components/RadarSmartSolution";
-import LandingPage from "./components/LandingPage";
-import Schulungen from "./components/Schulungen";
-import IsoZertifizierung from "./components/IsoZertifizierung";
-import ContactSuccess from "./components/content/common/ContactSuccess";
+import RadarSmartSolution from "@/components/RadarSmartSolution";
+import LandingPage from "@/components/LandingPage";
+import Schulungen from "@/components/Schulungen";
+import IsoZertifizierung from "@/components/IsoZertifizierung";
+import ContactSuccess from "@/components/content/common/ContactSuccess";
 
-const Maintainence = () => import('././components/Maintainence.vue')
-const Trading = () => import('././components/Trading.vue')
-const Leasing = () => import('././components/Leasing.vue')
-const FXF = () => import('././components/FXF.vue')
-const Imprint = () => import('././components/content/common/Imprint.vue')
-const Contact = () => import('././components/content/common/Contact.vue')
+const Maintainence = () => import('@/components/Maintainence.vue')
+const Trading = () => import('@/components/Trading.vue')
+const Leasing = () => import('@/components/Leasing.vue')
+const FXF = () => import('@/components/FXF.vue')
+const Imprint = () => import('@/components/content/common/Imprint.vue')
+const Contact = () => import('@/components/content/common/Contact.vue')
 
 Vue.config.productionTip = false
 
